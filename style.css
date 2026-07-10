@@ -1,0 +1,70 @@
+body{
+    background-color:#00663A;
+}
+
+input{
+    width: 100;
+    padding: 12px;
+    margin: 10px 0;
+    font: size 16px;
+    border-color:darkcyan;
+    border-radius: 5px;
+}
+button{
+    color:hsla(0, 100%, 30%, 0.805);
+    text-align: center;
+    hover {background: #0056b3;}
+    border-radius: 5px;
+}
+try{
+    background-color: whitesmoke;
+    color: darkred;
+    width:100;
+    padding:12px;
+}
+.success{ 
+    background-color: whitesmoke;
+    color:lightgreen;
+    width:100;
+    padding:12px;
+}
+.footer{
+    color: white;
+    background-image:url("https://thumbs.dreamstime.com/b/modern-abstract-texture-background-triangle-hexagonal-shapes-geometric-pattern-poster-header-web-banner-footer-414801918.jpg?w=992");
+    background-size:cover;
+    margin-bottom:0;
+}
+img{
+    background-size:500px;
+}
+p{
+    text-align: center;
+    color: black;
+}
+
+h2{
+    text-align: right;
+    text-decoration:underline ;
+    padding-bottom: 0;
+    color: aqua;
+}
+Contact{
+    text-align: right;
+    text-decoration:underline ;
+    padding-bottom: 0;
+    color: aqua;
+}
+about{
+    text-align: right;
+    text-decoration:underline ;
+    padding-bottom: 0;
+}
+open source{
+    color:white
+}
+Services{
+    color:white
+}
+About Us{
+    color:white
+}
